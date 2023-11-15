@@ -1,0 +1,11 @@
+Package: FMCSdescriptive
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Samira", "Hamiditehrani", , "hamidits@mcmaster.ca", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package provides essential data driven from FMCS 2021 survey collected in six mid-to-large Canadian metropolitan areas. In this survey information regarding automated vehicle adoption, sociodemographic characteristics, travel behavior, telework is collected.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
